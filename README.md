@@ -1,8 +1,7 @@
 ---
-title: 'adlists/README.md'
+title: 'pihole-list/README.md'
 ---
-### pihole-list
-##  README.md
+## pihole-list/README.md
 *last updated 7-6-24*
 
 github repo url: https://github.com/slsgaming-net/pihole-list
