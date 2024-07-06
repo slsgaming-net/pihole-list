@@ -12,8 +12,13 @@ github pages url: https://slsgaming-net.github.io/intranet
  
 ## About
 this was created for pihole for easy to use adlists...
- 
+
+## whitelists
+
+whitelist repo url: https://github.com/slsgaming-net/pihole-whitelist
+
 ---
+
 
  
  
