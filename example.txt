@@ -1,0 +1,1 @@
+use adlists.txt to block anything on pihole
